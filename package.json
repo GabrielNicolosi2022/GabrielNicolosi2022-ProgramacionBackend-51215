@@ -1,0 +1,16 @@
+{
+  "name": "productmanager",
+  "version": "1.0.0",
+  "description": "Servidor express para manager de productos",
+  "main": "./src/app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Gabriel Nicolosi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
